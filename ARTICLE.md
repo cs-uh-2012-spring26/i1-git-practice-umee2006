@@ -6,4 +6,4 @@ This article provides a counter-intuitive take on high-quality code. While most 
 I find the concept of "copy-paste is fine" particularly fascinating. It suggests that a little bit of repetition is better than a "wrong abstraction" that ties the whole system together. 
 
 ### Proof Reading
-Article checked for typos.
+Article checked for typos
