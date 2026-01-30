@@ -4,4 +4,4 @@ A simple project to practice a few git/github workflows.  Update this file as in
 
 ## Name: Muhammad Umair Hafeez
 
-[Link to my peer contribution](https://github.com/cs-uh-2012-spring26/cs-uh-2012-spring26-section002-i1-git-practice-cs-uh-2012-spring26-section002-i1-git-practice-i1-git/pull/4/changes/13dc7c6629a8bd02a50b9c5d2e2e267e36152750)
+[Link to my peer contribution](https://github.com/cs-uh-2012-spring26/i1-git-practice-SadafHabibb/pull/2)
