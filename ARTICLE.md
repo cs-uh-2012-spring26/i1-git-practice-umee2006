@@ -5,5 +5,14 @@ This article provides a counter-intuitive take on high-quality code. While most 
 
 I find the concept of "copy-paste is fine" particularly fascinating. It suggests that a little bit of repetition is better than a "wrong abstraction" that ties the whole system together. 
 
+
+### Additional Comment (by Muhammad Shahzaib Hassan)
+
+One aspect of this article that stood out to me is how it challenges the idea that *more structure always means better design*. As someone studying computer science, it was refreshing to see an argument that prioritizes *clarity and replaceability* over premature optimization. Writing code that can be deleted without fear encourages experimentation and reduces the long-term cost of maintaining outdated abstractions.
+
+This perspective feels especially relevant in real-world projects, where requirements change frequently and flexibility often comes from simplicity rather than elaborate design patterns.
+
+
 ### Proof Reading
 Article checked for typos
+
